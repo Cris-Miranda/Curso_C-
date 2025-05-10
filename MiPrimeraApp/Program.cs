@@ -4,7 +4,7 @@ using System.Ling;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HolaMundo{
+namespace HolaMundoo{
     internal class Program
     {
         static void Main(string[] args)
