@@ -12,3 +12,4 @@
 /home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.pdb
 /home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.genruntimeconfig.cache
 /home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/ref/MiPrimeraApp.dll
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.sourcelink.json

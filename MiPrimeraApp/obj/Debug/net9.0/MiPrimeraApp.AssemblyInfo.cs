@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiPrimeraApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf7ba6bc174793a924dd6c9472885a4b354c71c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiPrimeraApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiPrimeraApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

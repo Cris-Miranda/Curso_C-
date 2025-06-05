@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Ling;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HolaMundoo{
+namespace HolaMundo
+{
     internal class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World Cristian");
         }
     }
 }
