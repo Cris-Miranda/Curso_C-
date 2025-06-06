@@ -1,0 +1,14 @@
+/home/cris/Escritorio/C#/MiPrimeraApp/bin/Debug/net9.0/MiPrimeraApp
+/home/cris/Escritorio/C#/MiPrimeraApp/bin/Debug/net9.0/MiPrimeraApp.deps.json
+/home/cris/Escritorio/C#/MiPrimeraApp/bin/Debug/net9.0/MiPrimeraApp.runtimeconfig.json
+/home/cris/Escritorio/C#/MiPrimeraApp/bin/Debug/net9.0/MiPrimeraApp.dll
+/home/cris/Escritorio/C#/MiPrimeraApp/bin/Debug/net9.0/MiPrimeraApp.pdb
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.AssemblyInfoInputs.cache
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.AssemblyInfo.cs
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.csproj.CoreCompileInputs.cache
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.dll
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/refint/MiPrimeraApp.dll
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.pdb
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/MiPrimeraApp.genruntimeconfig.cache
+/home/cris/Escritorio/C#/MiPrimeraApp/obj/Debug/net9.0/ref/MiPrimeraApp.dll
